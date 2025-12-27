@@ -35,6 +35,7 @@
 ---
 
 ### 👾 CONTRIBUTION_FLOW
-<img src="https://github-user-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?variant=dark&user=brahimelbouziani&color_snake=00CCFF&color_dots=111111,003366,006699,0099cc,00ccff" width="100%" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brahimelbouziani/brahimelbouziani/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
 </div>
