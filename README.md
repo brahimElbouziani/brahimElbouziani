@@ -1,67 +1,63 @@
-# 👋 Hi, I'm Brahim El Bouziani
-### 💻 Software Engineer | DevOps Enthusiast | Problem Solver
+<div align="center">
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=brahimelbouziani&label=Profile%20views&color=0e75b6&style=flat-square" alt="Brahim El Bouziani" />
+# 🌐 [ SYSTEM.LOG: BRAHIM_ELBOUZIANI ]
+### ⚡ Full Stack Engineer // Creative Architect // Problem Solver ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:00ccff&height=200&section=header&text=BRAHIM%20ELBOUZIANI&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CCFF&center=true&vCenter=true&width=435&lines=Building+Digital+Futures;DevOps+and+Automation+Specialist;Full+Stack+Wizardry;Transforming+Ideas+Into+Code)](https://git.io/typing-svg)
+
+---
+
+### 🧬 BIOMETRICS
+| **STATUS** | **LOCATION** | **SPECIALIZATION** |
+| :--- | :--- | :--- |
+| 🟢 ONLINE | 📍 MOROCCO / REMOTE | 🛠️ SOFTWARE ENGINEERING |
+
+</div>
+
+---
+
+### 🛰️ TRANSMISSION CHANNELS
+<p align="center">
+<a href="https://www.brahimelbouziani.com"><img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=Weblate&logoColor=00CCFF" /></a>
+<a href="https://linkedin.com/in/brahimelbouziani"><img src="https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=00CCFF" /></a>
+<a href="mailto:contact@brahimelbouziani.com"><img src="https://img.shields.io/badge/GMAIL-000?style=for-the-badge&logo=gmail&logoColor=00CCFF" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
-I am a passionate **Software Engineer** dedicated to building scalable, efficient, and user-centric digital solutions. With a strong foundation in modern web technologies and a focus on clean code, I enjoy bridging the gap between complex problems and elegant technical solutions.
+### ⚔️ ARSENAL (TECH STACK)
 
-- 🌍  Based in Morocco / Available for Remote Work
-- ✉️  Reach me at: **contact@brahimelbouziani.com**
-- 🖥️  Portfolio: [brahimelbouziani.com](https://www.brahimelbouziani.com)
-
----
-
-### 🛠️ My Tech Stack
-
-**Front-End & Frameworks**
+**📡 CORE INFRASTRUCTURE**
 <p align="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass,html,css" />
-</a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express&theme=dark" />
 </p>
 
-**Back-End & Databases**
+**🔋 POWER GRID & LOGISTICS**
 <p align="left">
-<a href="https://skillicons.dev)
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,postgres,mysql" />
-</a>
-</p>
-
-**DevOps & Tools**
-<p align="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,aws,vscode,postman" />
-</a>
+  <img src="https://skillicons.dev/icons?i=python,django,mongodb,postgres,docker,aws,githubactions&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 NEURAL NETWORK STATS
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brahimelbouziani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00CCFF&text_color=ffffff" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahimelbouziani&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00CCFF&text_color=ffffff" />
+</p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brahimelbouziani&show_icons=true&theme=nord&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahimelbouziani&layout=compact&theme=nord&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=brahimelbouziani&theme=tokyonight&hide_border=true&background=000000&stroke=00CCFF&ring=00CCFF&fire=00CCFF" />
 </p>
 
+---
+
+### 🕹️ CONTRIBUTION MATRIX
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=brahimelbouziani&theme=nord&hide_border=true" />
+  <img src="https://github-user-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?variant=dark&user=brahimelbouziani&color_snake=00CCFF&color_dots=111111,003366,006699,0099cc,00ccff" />
 </p>
 
----
-
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://www.brahimelbouziani.com" target="blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=icloud&logoColor=white" /></a>
-<a href="https://linkedin.com/in/brahimelbouziani" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:contact@brahimelbouziani.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### ⚡ My GitHub Activity
-![Snake Animation](https://github-user-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?variant=dark&user=brahimelbouziani)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
